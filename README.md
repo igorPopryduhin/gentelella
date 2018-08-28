@@ -104,7 +104,7 @@ Let us know if you have done integration for this admin template on other platfo
 * Sidebar Transitions - simple off-canvas navigations
 * Skycons - canvas based wather icons
 * jQuery Sparklines plugin
-* switchery - Turns HTML checkbox inputs into beautiful iOS style switches
+* [switchery - Turns HTML checkbox inputs into beautiful iOS style switches](https://github.com/abpetkov/switchery)
 * jQuery Tags Input Plugin
 * Autosize - resizes text area to fit text
 * validator - HTML from validator using jQuery
